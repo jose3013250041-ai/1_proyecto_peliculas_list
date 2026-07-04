@@ -1,2 +1,2 @@
-# 1_proyecto_peliculas_list
+# 1_proyecto_peliculas_list_and_dict
 Proyecto
